@@ -3,8 +3,10 @@
 demo repo for spring cloud function composition examples
 
 value example:
-http://localhost:8080/hello<br>
+```
+http://localhost:8080/hello
 http://localhost:8080/uppercase
+```
 
 flux example:
 http://localhost:8080/words
