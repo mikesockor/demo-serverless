@@ -9,11 +9,15 @@ http://localhost:8080/uppercase
 ```
 
 flux example:
+```
 http://localhost:8080/words
 http://localhost:8080/words,lowercase
+```
 
 flux objects example:
+```
 http://localhost:8080/profiles
 http://localhost:8080/profiles,withMiles
 http://localhost:8080/profiles,withMiles,withName
 http://localhost:8080/profiles,withMiles,withName,withPassport
+```
